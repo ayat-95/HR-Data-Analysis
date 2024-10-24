@@ -46,6 +46,17 @@ HR Data : The primary dataset used for this analysis is the HR Data csv file con
     --![Dashboard 2](https://github.com/user-attachments/assets/25f0b4be-8ea5-49b3-a358-1a725365e9ec)
 
 
+    # Also i analyzed this data by using powerbi from Ato Z
+
+    YOU can check it here
+    
+ https://app.powerbi.com/links/9MjQBoGJEe?ctid=55ee015e-1d89-402f-aa25-33a5af3afa13&pbi_source=linkShare&bookmarkGuid=9ab959f2-b5d9-47b3-9814-f64df3c72f9c
+
+
+  ![image](https://github.com/user-attachments/assets/c478dfd0-ded2-48c8-938b-a134fe35e3fc)
+
+
+
 
 
 
